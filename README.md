@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-Game
 This React-based Tic-Tac-Toe game allows two players to compete on a 3x3 grid. It includes winner and draw validations, and provides an option to restart the game after completion.
+This Tic-Tac-Toe project is a simple game built using React. The game allows two players to take turns selecting squares on a 3x3 grid, with one player as "X" and the other as "O." The game includes validations for determining a winner, a draw, and managing the game's start and end states. The interface dynamically updates the player's turn, shows the result when a winner is found, and provides an option to restart the game if it ends in a win or a draw. The project demonstrates basic React state management, user interaction, and simple UI design.
 
 ## Features
 - Player turn switching
